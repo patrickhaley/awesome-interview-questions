@@ -1,7 +1,8 @@
 repo_name: patrickhaley/awesome-interview-questions
 report_id: ab645e44bb70e96f08d85a4483bcc62a
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-06T20:27:03+00:00'
+timestamp: '2024-01-05T08:28:35+00:00'
 requested_by: bvallelunga
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/patrickhaley/awesome-interview-questions
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -24,6 +26,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/patrickhaley/awesome-interview-questions/blob/master/.github/workflows/link-checker.yml
   detection_source: ".github/workflows/link-checker.yml"
   last_updated_by: Ryan Blunden
   last_updated_on: 2021-04-19 03:32:25.000000000 Z
